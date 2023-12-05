@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docblog=self.webpackChunkmy_docblog||[]).push([[3274],{7413:o=>{o.exports=JSON.parse('{"permalink":"/docblog/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

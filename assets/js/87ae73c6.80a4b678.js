@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docblog=self.webpackChunkmy_docblog||[]).push([[5593],{8518:o=>{o.exports=JSON.parse('{"permalink":"/docblog/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":7,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
